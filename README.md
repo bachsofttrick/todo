@@ -1,4 +1,6 @@
 ## Todo:
+- [Fast Team Task](https://github.com/bachsofttrick/fast-team-task)
+- [OCR AI Web](https://github.com/bachsofttrick/ocr-web)
 - [TV Guide API](https://github.com/bachsofttrick/tvguide-go)
   - TV Guide API in Laravel to host on [infinityfree.com](https://infinityfree.com)
 - [School Web API](https://github.com/bachsofttrick/school-web-go)
