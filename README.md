@@ -10,7 +10,7 @@
 
 ## Other Projects:
 | Name | Technology |
-|-|-|-|
+|-|-|
 | [Disable Turbo Boost in Intel CPU](https://github.com/bachsofttrick/intel-cpu-turbo-off-on-boot) | Linux Bash, Rules |
 | [Disable junks in Windows 11](https://github.com/bachsofttrick/win11-remove-junk-reg) | Windows Registry |
 | [Binary2text](https://github.com/bachsofttrick/binary2text) | Python |
